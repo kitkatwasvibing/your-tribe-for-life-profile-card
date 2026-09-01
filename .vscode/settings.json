@@ -1,0 +1,12 @@
+{
+    "svelte.plugin.typescript.signatureHelp.enable": false,
+    "svelte.plugin.typescript.semanticTokens.enable": false,
+    "svelte.plugin.typescript.selectionRange.enable": false,
+    "svelte.plugin.typescript.workspaceSymbols.enable": false,
+    "svelte.plugin.typescript.hover.enable": false,
+    "svelte.plugin.typescript.enable": false,
+    "svelte.plugin.typescript.documentSymbols.enable": false,
+    "svelte.plugin.typescript.diagnostics.enable": false,
+    "svelte.plugin.typescript.completions.enable": false,
+    "svelte.plugin.typescript.codeActions.enable": false
+}
