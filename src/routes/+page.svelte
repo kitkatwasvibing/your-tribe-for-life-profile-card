@@ -49,4 +49,8 @@
         border: 30px dotted cadetblue;
         width: fit-content;
     }
+
+    ul{
+        list-style: none;
+    }
 </style>
