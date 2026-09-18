@@ -7,6 +7,7 @@
 
     <article>
     <h2>Whats all this then?</h2>
+    <p>This is a website! its not good because i lowkey forgot to work on it, but its a website made with svelte!</p>
     </article>
 
     <main>
@@ -21,6 +22,10 @@
 
     <article>
     <h2>My fav webbed sites</h2>
+    <ul>   
+        <li><a href="https://frutigeraeroarchive.org/">Fruitiger aero archive</a></li>
+        <li><a href="https://tamanotchi.world/">Tamanotchi</a></li>
+    </ul>
     </article>
 </div>
 
