@@ -41,7 +41,7 @@
     article{
         border: 5px solid darkblue;
         border-radius: 30px;
-        width: 100vw;
+        width: 90vw;
     }
 
     main{
