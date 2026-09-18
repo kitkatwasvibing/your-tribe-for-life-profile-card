@@ -11,7 +11,8 @@
     </article>
 
     <main>
-        <h2>Be informed about me</h2>
+        <h2>Be informed about me!</h2>
+        <p>(really, i'm dangerous. be informed.)</p>
         <img src={`https://fdnd.directus.app/assets/${person.mugshot_year2}`} alt="this is what i look like" width="200" height="auto">
     <ul>
         <li>birthdate: {person.birthdate}</li>
